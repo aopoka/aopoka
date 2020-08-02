@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi! I'm Ania 👩🏻👋🏻
+
+<img src="https://raw.githubusercontent.com/aopoka/aopoka/master/banner_github.png">
+I'm an IT trainee especially interested in mobile development 📲. Currently learning and practicing swift & iOS development. I love attending tech meetups and conferences. I used to co-organize Google Developer Group (GDG) and Women Techmakers events in Wrocław, Poland. I was a volunteer during Websummit in Lisbon in 2017 and 2019. Can't wait to start contributing to open-source software! 💻
+## Let's connect! 🌎🤝🏻
+- Find me on <a href="https://twitter.com/a_opoka">Twitter</a> 💙
+- Add me to your network on <a href="https://www.linkedin.com/in/aopoka/">LinkedIn</a> 💼
 
 <!--
 **aopoka/aopoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
